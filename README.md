@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ynwbetta
-- 👀 I’m interested in ... Flutter and Laravel
-- 🌱 I’m currently learning ... Flutter
-- 💞️ I’m looking to collaborate on ... both Flutter and Laravel
-- 📫 How to reach me ... 
+- 👀 I’m interested in ... Flutter, Laravel and NextJs.
+- 💞️ I’m looking to collaborate on ... Flutter, Laravel and NextJs.
+- 📫 How to reach me ... On WhatsApp +2348168505376
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I like playing video games and football
 
